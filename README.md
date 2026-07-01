@@ -7,3 +7,8 @@ The user will be guided step-by-step through the derivation at their own pace, t
 
 # Purpose
 In addition to being a university coursework, the idea to do this topic specifically stemmed from encountering difficulties visualising derivations and completing them by hand in my 2nd year university module "Compilers and Computer Architecture". As CFGs I encountered got more complicated, manual derivations became more effort than they were worth. Therefore, I geared this tool towards teaching aspects of CFGs with increasing difficulties, including CFGs that would be otherwise tedious to derive manually.
+
+# Running the Project
+All required files are provided.
+Pygame must be installed in order to run the project.
+The project, since it has not been built, can be run via entrypoint.py
