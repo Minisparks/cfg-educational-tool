@@ -11,4 +11,9 @@ In addition to being a university coursework, the idea to do this topic specific
 # Running the Project
 All required files are provided.
 Pygame must be installed in order to run the project.
-The project, since it has not been built, can be run via entrypoint.py
+The project can be run by running entrypoint.py
+
+# Project Maintenance
+This project is no longer maintained.
+
+I was the sole contributor to this project.
